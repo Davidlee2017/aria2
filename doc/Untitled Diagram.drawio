@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T10:43:57.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="s9k0qnAue-8NhLKEFDXm" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T01:46:39.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pNjiYZRa2LGf9QqXaj9z" version="16.2.6" type="github">
   <diagram id="YilDh3PAvlAbY0U243uL" name="Page-1">
-    <mxGraphModel dx="1182" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1964" dy="2472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-pXGqylEfpOpcV__bSYs-3" value="信号比因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="176" y="-1159" width="130" height="40" as="geometry" />
+          <mxGeometry x="700" y="-1120" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-4" value="叶片分割（转速估计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-1159" width="130" height="40" as="geometry" />
+          <mxGeometry x="438" y="-1188" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-5" value="叶间互差因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-1000" width="80" height="40" as="geometry" />
@@ -80,25 +80,25 @@
           <mxGeometry x="-150" y="-821" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-27" value="&lt;span&gt;Mongo数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="467" y="-1280" width="100" height="40" as="geometry" />
+          <mxGeometry x="561" y="-1285" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-28" value="音频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="206" y="-1280" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="-1285" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-31" value="边缘端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="227" y="-1310" width="60" height="30" as="geometry" />
+          <mxGeometry x="175" y="-1315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-32" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="487" y="-1309" width="60" height="9" as="geometry" />
+          <mxGeometry x="581" y="-1309" width="60" height="9" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-33" value="雷声因子（服务端）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-1000" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-34" value="&lt;b&gt;失效模式判断&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="-851" width="100" height="30" as="geometry" />
+        <mxCell id="-pXGqylEfpOpcV__bSYs-34" value="&lt;b&gt;失效模式判断及健康度计算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-851" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-35" value="&lt;b&gt;失效因子计算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-290.5" y="-1149" width="100" height="30" as="geometry" />
+          <mxGeometry x="-300" y="-1154" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-36" value="&lt;b&gt;数据源&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-309.5" y="-1268" width="100" height="30" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry x="-75" y="-1030" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-62" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;η&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="221" y="-1189" width="50" height="30" as="geometry" />
+          <mxGeometry x="738" y="-1150" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-63" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;γ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="29" y="-1030" width="50" height="30" as="geometry" />
@@ -324,7 +324,41 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-81" value="&lt;span&gt;Mongo数据库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="-680" width="257" height="80" as="geometry" />
+          <mxGeometry x="374" y="-620" width="257" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-84" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.08;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-26" target="-pXGqylEfpOpcV__bSYs-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="-690" as="sourcePoint" />
+            <mxPoint x="90" y="-490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="-730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-90" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-28" target="-pXGqylEfpOpcV__bSYs-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-97.28" y="-1230" as="sourcePoint" />
+            <mxPoint x="397.28" y="-1077" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="-1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-91" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-28" target="-pXGqylEfpOpcV__bSYs-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-1240" as="sourcePoint" />
+            <mxPoint x="160" y="-990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="-1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-92" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="611" y="-1234" as="sourcePoint" />
+            <mxPoint x="510" y="-1190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
