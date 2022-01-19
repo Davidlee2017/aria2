@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T03:40:50.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="SWO4U3M2ggyaMRkmKPMw" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T07:20:06.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dJ29QmSBgOn8npQ49jn7" version="16.2.6" type="github">
   <diagram id="YilDh3PAvlAbY0U243uL" name="Page-1">
-    <mxGraphModel dx="1964" dy="2472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="2181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-pXGqylEfpOpcV__bSYs-3" value="信噪比因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="631" y="-1100" width="130" height="40" as="geometry" />
+          <mxGeometry x="1230" y="-1002" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-4" value="叶片分割（转速估计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="-1188" width="130" height="40" as="geometry" />
+        <mxCell id="-pXGqylEfpOpcV__bSYs-4" value="叶片分割/转速估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="-1188" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-5" value="叶间互差因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="-1000" width="80" height="40" as="geometry" />
@@ -44,64 +44,67 @@
           <mxGeometry x="830" y="-1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-14" value="螺栓掉落因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="-1000" width="80" height="40" as="geometry" />
+          <mxGeometry x="1130" y="-1000" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-15" value="叶片扫塔因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-pXGqylEfpOpcV__bSYs-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-15" target="-pXGqylEfpOpcV__bSYs-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-15" value="叶片扫塔（边缘端）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="-1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-16" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;雷击损伤&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-19" y="-822" width="80" height="40" as="geometry" />
+          <mxGeometry x="37" y="-822" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-17" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;排水孔堵塞&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="191" y="-822" width="80" height="40" as="geometry" />
+          <mxGeometry x="247" y="-822" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-18" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;非雷击前后缘开裂或附件掉落&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="-822" width="106" height="40" as="geometry" />
+          <mxGeometry x="349" y="-822" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-19" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;螺栓断裂&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="841" y="-821" width="80" height="40" as="geometry" />
+          <mxGeometry x="897" y="-821" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-20" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;叶片结冰&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-821" width="80" height="40" as="geometry" />
+          <mxGeometry x="676" y="-821" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-21" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;叶片扫塔&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="951" y="-821" width="80" height="40" as="geometry" />
+          <mxGeometry x="1007" y="-821" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-22" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;前缘腐蚀&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="91" y="-822" width="80" height="40" as="geometry" />
+          <mxGeometry x="147" y="-822" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-23" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;螺栓掉落&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="-821" width="80" height="40" as="geometry" />
+          <mxGeometry x="1117" y="-821" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-24" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;整体健康度计算&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="-836" width="160" height="70" as="geometry" />
+          <mxGeometry x="490" y="-770" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;落雷密度计算&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="-821" width="100" height="40" as="geometry" />
+          <mxGeometry x="-94" y="-821" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-27" value="&lt;span&gt;Mongo数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="-1285" width="100" height="40" as="geometry" />
+        <mxCell id="-pXGqylEfpOpcV__bSYs-27" value="&lt;span&gt;Mongo库数据（包含音频和scada数据）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1285" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-28" value="音频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-1285" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-31" value="边缘端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="-1315" width="60" height="30" as="geometry" />
+          <mxGeometry x="185" y="-1315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-32" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="581" y="-1309" width="60" height="9" as="geometry" />
+          <mxGeometry x="550" y="-1304.5" width="60" height="9" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-33" value="雷声因子（服务端）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-1000" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-34" value="&lt;b&gt;失效模式判断及健康度计算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="-851" width="80" height="30" as="geometry" />
+        <mxCell id="-pXGqylEfpOpcV__bSYs-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;失效模式判断&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-294.5" y="-817" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-35" value="&lt;b&gt;失效因子计算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="-1154" width="100" height="30" as="geometry" />
+        <mxCell id="-pXGqylEfpOpcV__bSYs-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;失效因子计算&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-294.5" y="-997" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-36" value="&lt;b&gt;数据源&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-309.5" y="-1268" width="100" height="30" as="geometry" />
+        <mxCell id="-pXGqylEfpOpcV__bSYs-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;数据源&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-302.5" y="-1268" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-43" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-8" target="-pXGqylEfpOpcV__bSYs-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -187,7 +190,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-53" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-15" target="-pXGqylEfpOpcV__bSYs-21">
+        <mxCell id="-pXGqylEfpOpcV__bSYs-53" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-99" target="-pXGqylEfpOpcV__bSYs-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="-960" as="sourcePoint" />
             <mxPoint x="670" y="-821" as="targetPoint" />
@@ -195,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-54" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;叶片落冰&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="731" y="-821" width="80" height="40" as="geometry" />
+          <mxGeometry x="787" y="-821" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -222,6 +225,8 @@
             <Array as="points">
               <mxPoint x="360" y="-950" />
               <mxPoint x="460" y="-910" />
+              <mxPoint x="790" y="-880" />
+              <mxPoint x="940" y="-870" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -233,14 +238,16 @@
               <mxPoint x="350" y="-940" />
               <mxPoint x="410" y="-900" />
               <mxPoint x="670" y="-920" />
+              <mxPoint x="900" y="-880" />
+              <mxPoint x="990" y="-860" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-61" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt&quot;&gt;λ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="-1030" width="50" height="30" as="geometry" />
+          <mxGeometry x="-76" y="-1017" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-62" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;η&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="685" y="-1130" width="50" height="30" as="geometry" />
+          <mxGeometry x="1260" y="-1020" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-63" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;γ&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="29" y="-1030" width="50" height="30" as="geometry" />
@@ -261,12 +268,12 @@
           <mxGeometry x="842" y="-1030" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-70" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Φ&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="950" y="-1030" width="50" height="30" as="geometry" />
+          <mxGeometry x="1055" y="-1028" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-71" value="&lt;p class=&quot;MsoNormal&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;font-size: 11pt&quot;&gt;Ψ&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="-1027" width="50" height="30" as="geometry" />
+          <mxGeometry x="1141" y="-1024" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-24">
+        <mxCell id="-pXGqylEfpOpcV__bSYs-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.663;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="-960" as="sourcePoint" />
             <mxPoint x="1130" y="-830" as="targetPoint" />
@@ -282,7 +289,7 @@
             <mxPoint x="880" y="-950" as="sourcePoint" />
             <mxPoint x="530" y="-710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="910" y="-910" />
+              <mxPoint x="940" y="-900" />
               <mxPoint x="590" y="-930" />
             </Array>
           </mxGeometry>
@@ -292,7 +299,7 @@
             <mxPoint x="560" y="-950" as="sourcePoint" />
             <mxPoint x="621" y="-811" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="-860" />
+              <mxPoint x="560" y="-860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -301,7 +308,8 @@
             <mxPoint x="370" y="-960" as="sourcePoint" />
             <mxPoint x="382.5" y="-812" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="-890" />
+              <mxPoint x="410" y="-900" />
+              <mxPoint x="470" y="-840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -323,9 +331,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-81" value="&lt;span&gt;Mongo数据库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="-620" width="257" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-90" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-28" target="-pXGqylEfpOpcV__bSYs-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-97.28" y="-1230" as="sourcePoint" />
@@ -340,35 +345,184 @@
             <mxPoint x="370" y="-1240" as="sourcePoint" />
             <mxPoint x="160" y="-990" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="235" y="-1160" />
               <mxPoint x="340" y="-1100" />
+              <mxPoint x="560" y="-1050" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-92" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-27">
+        <mxCell id="-pXGqylEfpOpcV__bSYs-92" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="611" y="-1234" as="sourcePoint" />
-            <mxPoint x="510" y="-1190" as="targetPoint" />
+            <mxPoint x="520" y="-1245" as="sourcePoint" />
+            <mxPoint x="510" y="-1195" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-pXGqylEfpOpcV__bSYs-95" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-3">
+        <mxCell id="-pXGqylEfpOpcV__bSYs-95" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-4" target="-pXGqylEfpOpcV__bSYs-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="-1148" as="sourcePoint" />
             <mxPoint x="409" y="-1093" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="-1160" />
+              <mxPoint x="600" y="-1120" />
+              <mxPoint x="1000" y="-1140" />
+              <mxPoint x="1140" y="-1090" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-pXGqylEfpOpcV__bSYs-97" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="-1150" as="sourcePoint" />
-            <mxPoint x="60" y="-1000" as="targetPoint" />
+            <mxPoint x="490" y="-1149" as="sourcePoint" />
+            <mxPoint x="60" y="-999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="-1110" />
-              <mxPoint x="250" y="-1100" />
+              <mxPoint x="460" y="-1119" />
+              <mxPoint x="250" y="-1099" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-98" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="-1150" as="sourcePoint" />
+            <mxPoint x="-40" y="-1005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="-1110" />
+              <mxPoint x="150" y="-1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-99" value="叶片扫塔因子（服务端）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-102" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.4;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.867;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-28" target="-pXGqylEfpOpcV__bSYs-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="-1240" as="sourcePoint" />
+            <mxPoint x="660" y="-990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="-1200" />
+              <mxPoint x="460" y="-1200" />
+              <mxPoint x="740" y="-1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-103" value="&lt;font style=&quot;font-size: 12px&quot;&gt;叶片的能量矩阵&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="-1065" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-104" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-1243" as="sourcePoint" />
+            <mxPoint x="-50" y="-1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="-1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-105" value="&lt;font style=&quot;font-size: 12px&quot;&gt;扫风周期和估计转速&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-1090" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-107" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="-1243" as="sourcePoint" />
+            <mxPoint x="403" y="-1188" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-108" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="-1147" as="sourcePoint" />
+            <mxPoint x="361.5" y="-1000" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-109" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-27" target="-pXGqylEfpOpcV__bSYs-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="-1240" as="sourcePoint" />
+            <mxPoint x="282.5" y="-988" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-110" value="&lt;font style=&quot;font-size: 12px&quot;&gt;分割索引和估计转速&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1070" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-111" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="592" y="-1244" as="sourcePoint" />
+            <mxPoint x="470" y="-1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="-1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-113" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="-1243" as="sourcePoint" />
+            <mxPoint x="560" y="-1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="638" y="-1089" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-114" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="-pXGqylEfpOpcV__bSYs-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="-1150" as="sourcePoint" />
+            <mxPoint x="371.5" y="-989" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-115" value="&lt;font style=&quot;font-size: 12px&quot;&gt;估计转速&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-1110" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-116" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="-1243" as="sourcePoint" />
+            <mxPoint x="760" y="-1002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="668" y="-1089" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-117" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="-1242" as="sourcePoint" />
+            <mxPoint x="859" y="-1002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="767" y="-1089" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-118" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="-1243" as="sourcePoint" />
+            <mxPoint x="1074" y="-1002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="982" y="-1089" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-119" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-1243" as="sourcePoint" />
+            <mxPoint x="1152" y="-1002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="-1089" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-120" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-pXGqylEfpOpcV__bSYs-27" target="-pXGqylEfpOpcV__bSYs-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="851" y="-1244" as="sourcePoint" />
+            <mxPoint x="1253" y="-1003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="-1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-121" value="&lt;b style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;健康度计算&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-282.5" y="-755" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-124" value="&lt;font style=&quot;font-size: 12px&quot;&gt;分割索引和估计转速&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="-1090" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXGqylEfpOpcV__bSYs-128" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;叶片卫士音频算法模块逻辑关系图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-1480" width="368" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
